@@ -1,5 +1,5 @@
 # (Добавьте строки в .gitignore)
-# venv/
-# __pycache__/
-# *.pyc
-# .DS_Store
+venv/
+__pycache__/
+*.pyc
+.DS_Store
